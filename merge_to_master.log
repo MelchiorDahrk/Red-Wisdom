@@ -1,10 +1,6 @@
 Merging plugins...
-Merging object to master: CELL Ahemmusa, Murmur Burial
-Copying object to master: CELL md24_TestCell
-Copying object to master: CELL Ahemmusa, Genbu Burial
-Copying object to master: CONT AB_o_ClutterChestCLOT
-Copying object to master: LEVI md24_lvl_AncientLoot
-Copying object to master: CONT md24_o_StrChestLrg
+Merging object to master: CREA md24_Und_AncestorWaken
+Merging object to master: SCPT md24_WakenAncestorScript
 Creating backup...
 Saving results...
 Finished!
