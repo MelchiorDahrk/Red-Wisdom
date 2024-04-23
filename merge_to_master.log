@@ -1,21 +1,10 @@
 Merging plugins...
-Merging object to master: SCPT md24_DremoraScript
-Merging object to master: SCPT md24_AhemmussaScript
-Merging object to master: SCPT md24_LotusLightScript
-Merging object to master: SCPT md24_NiraniScript
-Merging object to master: CREA md24_Und_AncestorWaken
-Merging object to master: SCPT md24_LotusFlowerScript
-Merging object to master: SCPT md24_UrshilakuScript
-Copying object to master: SPEL md24_abil_ghostlev
-Merging object to master: CONT md24_f_LotusBlood01
-Merging object to master: flower puzzle
-Copying object to master: ahemmusa water burial
-Merging object to master: greeting 4
-Copying object to master: guar
-Merging object to master: inscribed guar hide
-Merging object to master: red wisdom
-Merging object to master: md24_j_redwisdom
-Merging object to master: zainab camp
+Merging object to master: CELL Ahemmusa, Murmur Burial
+Copying object to master: CELL md24_TestCell
+Copying object to master: CELL Ahemmusa, Genbu Burial
+Copying object to master: CONT AB_o_ClutterChestCLOT
+Copying object to master: LEVI md24_lvl_AncientLoot
+Copying object to master: CONT md24_o_StrChestLrg
 Creating backup...
 Saving results...
 Finished!
