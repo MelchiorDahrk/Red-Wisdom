@@ -1,3 +1,17 @@
+# Red Wisdom
+Authors: AFFA, Greatness7, Melchior Dahrk
+Version: 1.0.0
+
+Description:
+Embark on a mystical journey as you unravel the ancient prophecy of Red Wisdom. Join forces with wide-eyed Nirani to unlock the hidden truths that lie buried within the sacred burial sites of the tribes. Explore a new angle to Ashlander lore, confront wild beasts and Daedric interlopers, and piece together the puzzle which may shape the fate of the Morrowind.
+
+Features:
+* Writing by AFFA aka Douglas Goodall
+* Explore a brand new grotto used by the Ahemmusa tribe to "bury" their dead
+* Visit the exterior burial sites of the Erabenimsun and Zainab tribes
+* Collect four elemental-themed Ashlander trinkets - all with custom art
+* Experience new Ashlander lore through the trials of a young Wise Woman apprentice
+
 Installation:
 00 Core - Base files required for the mod to function
 01 HD Textures - High resolution textures
