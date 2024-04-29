@@ -1,9 +1,9 @@
-# Red Wisdom
+# Red Wisdom - An Ashlander Prophecy
 Authors: AFFA, Greatness7, Melchior Dahrk
 Version: 1.0.0
 
 Description:
-Embark on a mystical journey as you unravel the ancient prophecy of Red Wisdom. Join forces with wide-eyed Nirani to unlock the hidden truths that lie buried within the sacred burial sites of the tribes. Explore a new angle to Ashlander lore, confront wild beasts and Daedric interlopers, and piece together the puzzle which may shape the fate of the Morrowind.
+Embark on a mystical journey as you unravel the ancient prophecy of Red Wisdom. Join forces with wide-eyed Nirani to unlock the hidden truths that lie within the sacred burial sites of the tribes. Explore a new angle to Ashlander lore, confront wild beasts and Daedric interlopers, and piece together the puzzle which may shape the fate of Morrowind.
 
 Features:
 * Writing by AFFA aka Douglas Goodall
