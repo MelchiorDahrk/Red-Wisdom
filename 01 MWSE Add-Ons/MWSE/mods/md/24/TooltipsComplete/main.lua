@@ -8,7 +8,7 @@ local tooltipData = {
     { id = "md24_IngCrea_MoonJelly", description = "This glowing, gelatinous substance comes from the juvenile life stage of the netch which are commonly known as 'Moon Jellies'.", itemType = "ingredient" },
     { id = "md24_IngFlor_LotusBlood", description = "The rare Blood Lotus flower represents 'rebirth through death' to the Ashlander tribes of Morrowind.", itemType = "ingredient" },
     { id = "md24_clumsy_spear", description = "The unusually spiny tip of this chitin spear is mystically enchanted to sap the mobility from a foe.", itemType = "weapon" },
-    { id = "md24_sureflight_bow", description = "This high quality chitin bow was crafted by an Erabenimsun warrior and is perfect for hunting game.", itemType = "weapon" },
+    { id = "md24_sureflight_bow", description = "This high quality chitin bow was crafted by an Erabenimsun warrior and is perfect for hunting game.", itemType = "weapon" }
 }
 local function initialized()
     if tooltipsComplete then
