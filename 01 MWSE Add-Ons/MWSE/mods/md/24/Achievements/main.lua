@@ -13,11 +13,14 @@ local function init()
         id = "md24_elements",
         category = cats.side,
         condition = function()
-            return tes3.getJournalIndex { id = "A1_1_FindSpymaster" } >= 1
+            return (tes3.getItemCount({ reference = "player", item = "md24_c_AshbaneGirdle" }) +
+            tes3.getItemCount({ reference = "player", item = "md24_c_StoneOfGrounding" }) +
+            tes3.getItemCount({ reference = "player", item = "md24_c_TheTwelfthTalisman" }) +
+            tes3.getItemCount({ reference = "player", item = "md24_c_TheWhirlingband" })) > 3
         end,
         icon = iconPath .. "achievement_elements.tga",
         colour = sb_achievements.colours.red,
-        title = "Tribal Elements", desc = "Collect all four of the Ashlander elemental trinkets."
+        title = "Tribal Elements", desc = "Collect all four of the elemental Ashlander trinkets."
     }
 
 end
