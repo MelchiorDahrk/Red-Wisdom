@@ -11,6 +11,7 @@ Features:
 * Visit the exterior burial sites of the Erabenimsun and Zainab tribes
 * Collect four elemental-themed Ashlander trinkets - all with custom art
 * Experience new Ashlander lore through the trials of a young Wise Woman apprentice
+* Interoperability features like tooltips, achievements, graphic herbalism, and quest notification icons 
 
 Installation:
 00 Core - Base files required for the mod to function
