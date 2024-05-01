@@ -33,3 +33,14 @@ Credits:
 LondonRook - cave mold pieces from Outlander Assets
 Sachiel - rock arch
 Linda Canyon - Dunmer Female Voice
+
+Permissions:
+You are free to:
+Adapt - remix, transform, and build upon the material
+
+Under the following terms:
+Attribution - You must give appropriate credit.
+Non-Commercial - You may not use the material for commercial purposes (i.e. no payment of monetary compensation as a condition for the download).
+
+If author(s) is/are not able to be contacted through a reasonable effort,
+Then you are free to copy and redistribute the material for use in The Elder Scrolls III: Morrowind
