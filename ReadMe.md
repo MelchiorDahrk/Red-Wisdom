@@ -18,6 +18,9 @@ Installation:
 01 HD Textures - High resolution textures
 02 MWSE Add-Ons - Includes the mod's metadata file, interops for The Achievement Framework, Skyrim Style Quest Notifications, and Tooltips Complete
 
+Playing the mod:
+To start the quest, talk to Borwen at The Covenant in Tel Mora about an inscribed guar hide she's selling.
+
 Compatibility:
 This mod is compatible with both OpenMW and Vanilla + MWSE.
 
