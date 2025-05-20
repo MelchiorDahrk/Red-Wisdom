@@ -1,6 +1,6 @@
 # Red Wisdom - An Ashlander Prophecy
 Authors: AFFA, Greatness7, Melchior Dahrk
-Version: 1.0.1
+Version: 1.1.0
 
 Description:
 Embark on a mystical journey as you unravel the ancient prophecy of Red Wisdom. Join forces with wide-eyed Nirani to unlock the hidden truths that lie within the sacred burial sites of the tribes. Explore a new angle to Ashlander lore, confront wild beasts and Daedric interlopers, and piece together the puzzle which may shape the fate of Morrowind.
@@ -17,6 +17,7 @@ Installation:
 00 Core - Base files required for the mod to function
 01 HD Textures - High resolution textures
 02 MWSE Add-Ons - Includes the mod's metadata file, interops for The Achievement Framework, Skyrim Style Quest Notifications, and Tooltips Complete
+02 OpenMW Add-Ons - Includes interop for OpenMW Skyrim-Style Quest Notifications
 
 Playing the mod:
 To start the quest, talk to Borwen at The Covenant in Tel Mora about an inscribed guar hide she's selling.
@@ -48,3 +49,4 @@ Then you are free to copy and redistribute the material for use in The Elder Scr
 Changelog:
 1.0.0 - Initial release
 1.0.1 - Fixed journal entry about where the blood lotus are. Added a new teleport timer to Nirani. Added a dead count check in dialogue for Mut.
+1.1.0 - Added OpenMW SSQN support. Fixed incorrect journal entry being given when buying the inscribed guar hide. Still add topic if you're a cheapskate with Borwen.
