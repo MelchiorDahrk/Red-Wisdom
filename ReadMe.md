@@ -50,3 +50,4 @@ Changelog:
 1.0.0 - Initial release
 1.0.1 - Fixed journal entry about where the blood lotus are. Added a new teleport timer to Nirani. Added a dead count check in dialogue for Mut.
 1.1.0 - Added OpenMW SSQN support. Fixed incorrect journal entry being given when buying the inscribed guar hide. Still add topic if you're a cheapskate with Borwen.
+1.1.1 - Updated for compatibility with Demon of Knowledge
